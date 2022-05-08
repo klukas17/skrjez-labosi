@@ -1,8 +1,11 @@
 #!/usr/bin/perl -w
 
+# pokretanje: ./zadatak2.pl
+
 @lista = ();
 
 while (<>) {
+    chomp;
     push @lista, $_;
 }
 

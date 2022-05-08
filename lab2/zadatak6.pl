@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 
+# pokretanje: ./zadatak6.pl notturno.txt 4
+
 use open ':locale';
 use locale;
 

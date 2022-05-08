@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 
+# pokretanje: ./zadatak5.pl rezultati.txt
+
 sub custom_sort {
     if ($bodovi{$a} != $bodovi{$b}) {
         return $bodovi{$a} <=> $bodovi{$b};

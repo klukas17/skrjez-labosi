@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 
+# pokretanje: ./zadatak1.pl
+
 print "Niz: ";
 chomp($niz = <STDIN>);
 print "Broj ponavljanja: ";

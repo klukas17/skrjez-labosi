@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 
+# pokretanje: ./zadatak4.pl labosi.txt
+
 $skip = 0;
 while (<>) {
     if ($skip == 0) {
